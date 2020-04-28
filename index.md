@@ -12,7 +12,7 @@
 <body>
     <div class="grid">
         <div id="quiz">
-            <h1>Quiz Time</h1>
+            <h1>Quarantine Quiz</h1>
             <hr style="margin-bottom: 20px">
  
             <p id="question"></p>
