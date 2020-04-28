@@ -1,12 +1,12 @@
 body {
-    background-color: rgb(255, 230, 1);
+    background-color: #413D3D;
 }
  
 .grid {
-    width: 800px;
-    height: 900px;
+    width: 600px;
+    height: 500px;
     margin: 0 auto;
-    background-color: rgb(255, 230, 1);
+    background-color: #fff;
     padding: 10px 50px 50px 50px;
     border: 2px solid #cbcbcb;
     
@@ -15,7 +15,7 @@ body {
 .grid h1 {
     font: arial ;
     background-color: rgb(255, 230, 1);
-    font-size: 50px;
+    font-size: 60px;
     text-align: center;
     color: #ffffff;
     padding: 2px 0px;
@@ -39,7 +39,7 @@ body {
 }
  
 #btn0, #btn1, #btn2, #btn3 {
-    background-color: rgb(255, 230, 1);
+    background-color: #01BBFF;
     width: 250px;
     font-size: 20px;
     color: #fff;
