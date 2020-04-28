@@ -6,7 +6,7 @@ body {
     width: 600px;
     height: 500px;
     margin: 0 auto;
-    background-color: #fff;
+    background-color: #FEDI8C;
     padding: 10px 50px 50px 50px;
     border: 2px solid #cbcbcb;
     
@@ -14,7 +14,7 @@ body {
  
 .grid h1 {
     font: arial ;
-    background-color: #01BBFF;
+    background-color: #FEDI8C;
     font-size: 60px;
     text-align: center;
     color: #ffffff;
@@ -39,7 +39,7 @@ body {
 }
  
 #btn0, #btn1, #btn2, #btn3 {
-    background-color: #01BBFF;
+    background-color: #FEDI8C;
     width: 250px;
     font-size: 20px;
     color: #fff;
